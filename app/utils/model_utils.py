@@ -2,7 +2,7 @@ import os
 import joblib
 import numpy as np
 from keras.models import load_model
-ffrom tensorflow.keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parents[2]
