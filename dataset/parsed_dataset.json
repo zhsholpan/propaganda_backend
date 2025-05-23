@@ -1,0 +1,151 @@
+[
+  {
+    "article_id": "article0001",
+    "text": "They want to destroy our traditions and impose their values.",
+    "techniques": [
+      { "start": 10, "end": 38, "label": "Loaded_Language", "span": "destroy our traditions" }
+    ]
+  },
+  {
+    "article_id": "article0002",
+    "text": "Our nation must act now before it's too late to defend our culture.",
+    "techniques": [
+      { "start": 12, "end": 41, "label": "Appeal_to_fear", "span": "act now before it's too late" },
+      { "start": 48, "end": 65, "label": "Flag-Waving", "span": "defend our culture" }
+    ]
+  },
+  {
+    "article_id": "article0003",
+    "text": "Experts agree that the enemy is trying to corrupt our way of life.",
+    "techniques": [
+      { "start": 0, "end": 13, "label": "Appeal_to_authority", "span": "Experts agree" },
+      { "start": 41, "end": 61, "label": "Loaded_Language", "span": "corrupt our way of life" }
+    ]
+  },
+  {
+    "article_id": "article0004",
+    "text": "This is why we suffer: because of them.",
+    "techniques": [
+      { "start": 0, "end": 22, "label": "Causal_Oversimplification", "span": "This is why we suffer" }
+    ]
+  },
+  {
+    "article_id": "article0005",
+    "text": "The only solution is to silence the opposition before chaos erupts.",
+    "techniques": [
+      { "start": 4, "end": 19, "label": "Slogans", "span": "only solution" },
+      { "start": 52, "end": 65, "label": "Loaded_Language", "span": "chaos erupts" }
+    ]
+  },
+  {
+    "article_id": "article0006",
+    "text": "Real patriots will never let the traitors win.",
+    "techniques": [
+      { "start": 0, "end": 13, "label": "Flag-Waving", "span": "Real patriots" },
+      { "start": 31, "end": 39, "label": "Name_Calling", "span": "traitors" }
+    ]
+  },
+  {
+    "article_id": "article0007",
+    "text": "You are either with us or against us. There's no in-between.",
+    "techniques": [
+      { "start": 0, "end": 34, "label": "Black-and-White_Fallacy", "span": "You are either with us or against us" }
+    ]
+  },
+  {
+    "article_id": "article0008",
+    "text": "They’ve told this lie again and again to brainwash the people.",
+    "techniques": [
+      { "start": 22, "end": 40, "label": "Repetition", "span": "again and again" },
+      { "start": 44, "end": 65, "label": "Loaded_Language", "span": "brainwash the people" }
+    ]
+  },
+  {
+    "article_id": "article0009",
+    "text": "According to a top general, this decision is non-negotiable.",
+    "techniques": [
+      { "start": 0, "end": 27, "label": "Appeal_to_authority", "span": "According to a top general" }
+    ]
+  },
+  {
+    "article_id": "article0010",
+    "text": "We must act now! Everything is at risk!",
+    "techniques": [
+      { "start": 0, "end": 13, "label": "Appeal_to_fear", "span": "We must act now" },
+      { "start": 15, "end": 38, "label": "Loaded_Language", "span": "Everything is at risk" }
+    ]
+  },
+  {
+    "article_id": "article0011",
+    "text": "The truth has been hidden by the elites for decades.",
+    "techniques": [
+      { "start": 27, "end": 37, "label": "Name_Calling", "span": "the elites" }
+    ]
+  },
+  {
+    "article_id": "article0012",
+    "text": "Only the brave will stand against the enemy.",
+    "techniques": [
+      { "start": 0, "end": 13, "label": "Slogans", "span": "Only the brave" },
+      { "start": 37, "end": 42, "label": "Name_Calling", "span": "enemy" }
+    ]
+  },
+  {
+    "article_id": "article0013",
+    "text": "All problems started after the new policy came into force.",
+    "techniques": [
+      { "start": 0, "end": 16, "label": "Causal_Oversimplification", "span": "All problems started" }
+    ]
+  },
+  {
+    "article_id": "article0014",
+    "text": "Studies show our values are under attack.",
+    "techniques": [
+      { "start": 0, "end": 12, "label": "Appeal_to_authority", "span": "Studies show" },
+      { "start": 24, "end": 37, "label": "Loaded_Language", "span": "under attack" }
+    ]
+  },
+  {
+    "article_id": "article0015",
+    "text": "Anyone who disagrees is clearly uninformed.",
+    "techniques": [
+      { "start": 33, "end": 43, "label": "Name_Calling", "span": "uninformed" }
+    ]
+  },
+  {
+    "article_id": "article0016",
+    "text": "Remember what happened last time we trusted outsiders.",
+    "techniques": [
+      { "start": 8, "end": 34, "label": "Appeal_to_fear", "span": "what happened last time" }
+    ]
+  },
+  {
+    "article_id": "article0017",
+    "text": "This proves once and for all who the enemy is.",
+    "techniques": [
+      { "start": 0, "end": 21, "label": "Slogans", "span": "This proves once and for all" },
+      { "start": 35, "end": 40, "label": "Name_Calling", "span": "enemy" }
+    ]
+  },
+  {
+    "article_id": "article0018",
+    "text": "No decent person would ever support that policy.",
+    "techniques": [
+      { "start": 0, "end": 16, "label": "Loaded_Language", "span": "No decent person" }
+    ]
+  },
+  {
+    "article_id": "article0019",
+    "text": "It’s obvious they want to ruin our society.",
+    "techniques": [
+      { "start": 12, "end": 37, "label": "Loaded_Language", "span": "want to ruin our society" }
+    ]
+  },
+  {
+    "article_id": "article0020",
+    "text": "Every time they speak, it’s another manipulation tactic.",
+    "techniques": [
+      { "start": 34, "end": 56, "label": "Loaded_Language", "span": "manipulation tactic" }
+    ]
+  }
+]
